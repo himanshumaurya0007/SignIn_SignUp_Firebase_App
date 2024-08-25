@@ -84,7 +84,7 @@ Make sure to review and update the rules as necessary to maintain the security o
 
 ### Firebase Rules Location in the Project
 
-- **File Path**: `path/to/your/rules/file.json`
+- **File Path**: `https://github.com/himanshumaurya0007/SignIn_SignUp_Firebase_App.git/rules.txt`
 - **Purpose**: Defines the read/write permissions and data validation for the Firebase Realtime Database used in this application.
   
 ---
