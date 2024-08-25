@@ -74,6 +74,21 @@ This app was developed as an educational project to demonstrate the integration 
 
 ---
 
+## 🔒 Firebase Realtime Database Rules
+
+The security rules for this project are crucial to ensure that only authenticated users can read and write data securely. You can find the Firebase Realtime Database rules file in this repository at the following location:
+
+[Firebase Realtime Database Rules](rules.txt)
+
+Make sure to review and update the rules as necessary to maintain the security of the application.
+
+### Firebase Rules Location in the Project
+
+- **File Path**: `path/to/your/rules/file.json`
+- **Purpose**: Defines the read/write permissions and data validation for the Firebase Realtime Database used in this application.
+  
+---
+
 ## Contribute
 Contributions are welcome! If you have ideas for improving this project, feel free to fork the repository and submit a pull request.
 
