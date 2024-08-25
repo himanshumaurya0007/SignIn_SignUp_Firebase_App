@@ -38,20 +38,19 @@ Welcome to the **SignIn_SignUp_Firebase_App** repository! This Android applicati
 Here are some screenshots of the app to give you an idea of its functionality and design:
 
 ### Splash Screen Page
-![Splash Screen](readme_images/ss.jpeg)
+<img src="readme_images/ss.jpeg" alt="Splash Screen" width="200">
 
 ### Sign-Up Page
-![Sign-Up](readme_images/sign-up.png)
+<img src="readme_images/sign-up.png" alt="Sign-Up" width="200">
 
 ### Sign-In Page
-![Sign-In](readme_images/sign-in.png)
+<img src="readme_images/sign-in.png" alt="Sign-In" width="200">
 
 ### Dashboard
-![Dashboard](readme_images/dashboard.png)
+<img src="readme_images/dashboard.png" alt="Dashboard" width="200">
 
 ### Toast Messages
-![Sign-Up Message Toast](readme_images/toast1.png)
-![Sign-In Message Toast](readme_images/toast2.png)
+<img src="readme_images/toast1.png" alt="Sign-Up Message Toast" width="200"><img src="readme_images/toast2.png" alt="Sign-In Message Toast" width="200">
 
 ---
 
