@@ -1,0 +1,29 @@
+/ ******* copy and paste the below code in the Firebase Realtime Database => Rules *******/
+
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "Users": {
+      "$username": {
+        ".validate": "newData.exists() && newData.hasChildren(['name', 'username', 'email', 'password'])",
+        
+        "name": {
+          ".validate": "newData.isString() && newData.val().length >= 2 && newData.val().length <= 50 && newData.val().matches(/^([a-zA-Z]+ ?)+$/)"
+        },
+        
+        "username": {
+          ".validate": "newData.isString() && newData.val().length >= 4 && newData.val().length <= 20 && newData.val().matches(/^[a-z0-9_]+$/)"
+        },
+        
+        "email": {
+          ".validate": "newData.isString() && newData.val().matches(/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/)"
+        },
+        
+        "password": {
+          ".validate": "newData.isString() && newData.val().length >= 8 && newData.val().length <= 20"
+        }
+      }
+    }
+  }
+}
