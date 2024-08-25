@@ -8,8 +8,9 @@ Welcome to the **SignIn_SignUp_Firebase_App** repository! This Android applicati
 3. [Screenshots](#screenshots)
 4. [Purpose](#purpose)
 5. [How to Use](#how_to_use)
-6. [Contribute](#contribute)
-7. [License](#license)
+6. [Firebase_Realtime_Database_Rules](#firebase_realtime_database_rules)
+7. [Contribute](#contribute)
+8. [License](#license)
 
 ---
 
@@ -74,7 +75,7 @@ This app was developed as an educational project to demonstrate the integration 
 
 ---
 
-## 🔒 Firebase Realtime Database Rules
+## Firebase_Realtime_Database_Rules
 
 The security rules for this project are crucial to ensure that only authenticated users can read and write data securely. You can find the Firebase Realtime Database rules file in this repository at the following location:
 
