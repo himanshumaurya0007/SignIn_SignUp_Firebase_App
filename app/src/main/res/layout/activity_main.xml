@@ -7,17 +7,8 @@
 
     <ImageView
         android:id="@+id/logo"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:src="@drawable/baseline_person_24" />
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/splash_screen" />
 
-    <TextView
-        android:id="@+id/app_name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/logo"
-        android:text="My App"
-        android:textSize="24sp"
-        android:textColor="@color/orange"
-        android:layout_marginTop="16dp" />
 </RelativeLayout>
