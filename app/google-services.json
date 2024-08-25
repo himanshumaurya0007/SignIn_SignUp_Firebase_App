@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673181881384",
+    "project_id": "signin-signup-firebase-saumyas",
+    "storage_bucket": "signin-signup-firebase-saumyas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673181881384:android:c6745de0c64b358c1e511d",
+        "android_client_info": {
+          "package_name": "com.example.signin_signup_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjeozGUWl9sm3BP5cdmrY1QQrrCWEQDhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
