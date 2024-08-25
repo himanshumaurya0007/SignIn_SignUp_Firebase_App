@@ -64,8 +64,8 @@ This app was developed as an educational project to demonstrate the integration 
 
 2. **Open the project in Android Studio**.
 3. **Set up Firebase**:
-  - Add your Firebase project configuration to the app.
-  - Ensure Firebase Realtime Database and Authentication are enabled.
+     - Add your Firebase project configuration to the app.
+     - Ensure Firebase Realtime Database and Authentication are enabled.
 4. **Build and run the app on your device or emulator**.
 5. **Test the sign-up and sign-in functionality**.
 
